@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4211f517-53ad-4432-b3cf-9a9836f9f192" name="Changes" comment="changing App.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-    </list>
+    <list default="true" id="4211f517-53ad-4432-b3cf-9a9836f9f192" name="Changes" comment="changing Dockerfile" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +70,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Docker.Docker Image (2)">
+  <component name="RunManager" selected="Docker.Dockerfile">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.napier.sem.App" />
       <module name="Example1" />
@@ -120,7 +117,6 @@
     <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
       <deployment type="dockerfile">
         <settings>
-          <option name="buildOnly" value="true" />
           <option name="sourceFilePath" value="Dockerfile" />
         </settings>
       </deployment>
@@ -132,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.Dockerfile" />
         <item itemvalue="Docker.Docker Image (2)" />
         <item itemvalue="Docker.Docker Image (1)" />
         <item itemvalue="Docker.Docker Image" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Docker.Dockerfile" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706158086661</updated>
-      <workItem from="1706158087837" duration="10733000" />
+      <workItem from="1706158087837" duration="11146000" />
     </task>
     <task id="LOCAL-00001" summary="adding app.java">
       <option name="closed" value="true" />
@@ -303,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706170748930</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="changing Dockerfile">
+      <option name="closed" value="true" />
+      <created>1706171325659</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1706171325659</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +330,8 @@
     <MESSAGE value="changing README.md" />
     <MESSAGE value="changing pom.xml" />
     <MESSAGE value="changing App.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing App.java" />
+    <MESSAGE value="changing Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing Dockerfile" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
