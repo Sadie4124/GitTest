@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4211f517-53ad-4432-b3cf-9a9836f9f192" name="Changes" comment="changing pom.xml">
+    <list default="true" id="4211f517-53ad-4432-b3cf-9a9836f9f192" name="Changes" comment="changing App.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,7 @@
   "keyToString": {
     "Application.App.executor": "Run",
     "Docker.Docker Image (1).executor": "Run",
+    "Docker.Docker Image (2).executor": "Run",
     "Docker.Docker Image.executor": "Run",
     "Docker.Dockerfile.executor": "Run",
     "Maven.Example1 [package].executor": "Run",
@@ -73,7 +73,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Docker.Docker Image (1)">
+  <component name="RunManager" selected="Docker.Docker Image (2)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.napier.sem.App" />
       <module name="Example1" />
@@ -92,6 +92,16 @@
         <settings>
           <option name="imageTag" value="mongo:latest" />
           <option name="containerName" value="mongo-dvserver" />
+          <option name="commandLineOptions" value="--network se-methods" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Docker Image (2)" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="sha256:9c7b4f6edbde7ed9fd3bde79fc5748c4ba69a427abfb38fe4db90c0b9cadb3db" />
+          <option name="containerName" value="" />
           <option name="commandLineOptions" value="--network se-methods" />
         </settings>
       </deployment>
@@ -122,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.Docker Image (2)" />
         <item itemvalue="Docker.Docker Image (1)" />
         <item itemvalue="Docker.Docker Image" />
         <item itemvalue="Application.App" />
@@ -146,7 +157,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706158086661</updated>
-      <workItem from="1706158087837" duration="10181000" />
+      <workItem from="1706158087837" duration="10733000" />
     </task>
     <task id="LOCAL-00001" summary="adding app.java">
       <option name="closed" value="true" />
@@ -284,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706169358381</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="changing App.java">
+      <option name="closed" value="true" />
+      <created>1706170748930</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1706170748930</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,9 +324,9 @@
     <MESSAGE value="adding app.java" />
     <MESSAGE value="adding README.md" />
     <MESSAGE value="changing README.md" />
-    <MESSAGE value="changing App.java" />
     <MESSAGE value="changing pom.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing pom.xml" />
+    <MESSAGE value="changing App.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing App.java" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
