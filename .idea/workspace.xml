@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4211f517-53ad-4432-b3cf-9a9836f9f192" name="Changes" comment="adding app.java">
+    <list default="true" id="4211f517-53ad-4432-b3cf-9a9836f9f192" name="Changes" comment="adding README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706158086661</updated>
-      <workItem from="1706158087837" duration="4111000" />
+      <workItem from="1706158087837" duration="4684000" />
     </task>
     <task id="LOCAL-00001" summary="adding app.java">
       <option name="closed" value="true" />
@@ -104,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706162781116</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adding README.md">
+      <option name="closed" value="true" />
+      <created>1706164636094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706164636094</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +120,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding app.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding app.java" />
+    <MESSAGE value="adding README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding README.md" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
