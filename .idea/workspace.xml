@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4211f517-53ad-4432-b3cf-9a9836f9f192" name="Changes" comment="adding README.md">
+    <list default="true" id="4211f517-53ad-4432-b3cf-9a9836f9f192" name="Changes" comment="changing pom.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.App.executor": "Run",
     "Docker.Dockerfile.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -51,6 +52,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "Docker",
     "vue.rearranger.settings.migration": "true"
   }
@@ -74,6 +78,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
+        <option value="jdk-17.0.9-jbr-17.0.9-f644763e9732-e10f1064" />
         <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
       </set>
     </attachedChunks>
@@ -86,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706158086661</updated>
-      <workItem from="1706158087837" duration="4684000" />
+      <workItem from="1706158087837" duration="5496000" />
     </task>
     <task id="LOCAL-00001" summary="adding app.java">
       <option name="closed" value="true" />
@@ -112,7 +118,39 @@
       <option name="project" value="LOCAL" />
       <updated>1706164636094</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding README.md">
+      <option name="closed" value="true" />
+      <created>1706165202663</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706165202663</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adding README.md">
+      <option name="closed" value="true" />
+      <created>1706165246786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706165246786</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changing pom.xml">
+      <option name="closed" value="true" />
+      <created>1706165276080</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706165276080</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changing pom.xml">
+      <option name="closed" value="true" />
+      <created>1706165391916</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706165391916</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +159,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding app.java" />
     <MESSAGE value="adding README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding README.md" />
+    <MESSAGE value="changing pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing pom.xml" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
